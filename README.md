@@ -1,10 +1,4 @@
 
-      参考标定博客：
-
-​     <https://blog.csdn.net/zhang970187013/article/details/81098175>
-
-​     <https://blog.csdn.net/xu1129005165/article/details/83178122>
-
 
 easy_handeye: TF / VISP Hand-Eye Calibration
 ============================================
